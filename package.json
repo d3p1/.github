@@ -16,6 +16,10 @@
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.7.0",
     "@commitlint/types": "^17.4.4",
-    "husky": "^8.0.3"
+    "husky": "^8.0.3",
+    "write-good": "^1.0.8"
+  },
+  "scripts": {
+    "lint": "write-good *.md .github/*.md --no-passive"
   }
 }
