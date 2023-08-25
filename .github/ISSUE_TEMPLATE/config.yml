@@ -1,0 +1,6 @@
+##
+# @description Issue template chooser configuration
+# @author      Cristian Marcelo de Picciotto <d3p1@d3p1.dev>
+# @link        https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+##
+blank_issues_enabled: false
