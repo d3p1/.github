@@ -1,0 +1,21 @@
+{
+  "name": "@d3p1/github-health-files",
+  "version": "1.0.0",
+  "description": "A default for defaults",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3p1/.github.git"
+  },
+  "author": "Cristian Marcelo de Picciotto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d3p1/.github/issues"
+  },
+  "homepage": "https://github.com/d3p1/.github",
+  "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
+    "@commitlint/types": "^17.4.4",
+    "husky": "^8.0.3"
+  }
+}
