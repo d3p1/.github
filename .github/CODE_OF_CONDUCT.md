@@ -63,8 +63,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-https://www.linkedin.com/in/cristian-marcelo-de-picciotto/.
+reported to the community leaders responsible for enforcement at [d3p1@d3p1.dev](mailto:d3p1@d3p1.dev).
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
