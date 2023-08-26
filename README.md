@@ -6,7 +6,7 @@
 
 ## Introduction
 
-The [recommended repository](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) to store default health files for my default projects.
+The [default repository](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) to store default health files for my default projects.
 
 These files will be used as defaults for my small projects, but complex implementations will have customized ones.
 
