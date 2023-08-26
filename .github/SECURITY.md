@@ -4,6 +4,6 @@
 
 </div>
 
-## Reporting a Vulnerability
+## Reporting a vulnerability
 
 If you find a vulnerability, please report it to [d3p1@d3p1.dev](mailto:d3p1@d3p1.dev). I will try my best to respond within a week. Thank you for your time!

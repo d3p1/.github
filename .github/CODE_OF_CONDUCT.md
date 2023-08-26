@@ -69,7 +69,7 @@ All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
-## Enforcement Guidelines
+## Guidelines
 
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
@@ -95,7 +95,7 @@ includes avoiding interactions in community spaces as well as external channels
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
 
-### 3. Temporary Ban
+### 3. Temporary ban
 
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behavior.
@@ -106,7 +106,7 @@ private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
 
-### 4. Permanent Ban
+### 4. Permanent ban
 
 **Community Impact**: Demonstrating a pattern of violation of community
 standards, including sustained inappropriate behavior,  harassment of an

@@ -4,11 +4,11 @@ about: Create a bug report to help us improve
 labels: bug
 ---
 
-## Preconditions and Environment
+## Preconditions & Environment
 
 <!-- Anything that would help a developer reproduce the bug -->
 
-## Steps to Reproduce
+## Steps to reproduce
 
 <!--
 1. Go to '...'
@@ -17,11 +17,11 @@ labels: bug
 4. See error
 -->
 
-## Expected Result
+## Expected result
 
 <!-- A clear and concise description of what you expected to happen -->
 
-## Actual Result
+## Actual result
 
 <!-- A clear and concise description of what happened -->
 
