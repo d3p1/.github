@@ -6,13 +6,8 @@
  */
 module.exports = {
     /**
-     * @note Resolve and load `@commitlint/config-conventional` 
+     * @note Resolve and load `@d3p1/commitlint-config` 
      *       from `node_modules`
      */
-    extends: ['@commitlint/config-conventional'],
-
-    /**
-     * @note Add parser preset
-     */
-    parserPreset: './commitlint.parser.js'
+    extends: ['@d3p1/commitlint-config'],
 };
