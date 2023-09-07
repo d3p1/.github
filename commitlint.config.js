@@ -9,5 +9,5 @@ module.exports = {
      * @note Resolve and load `@d3p1/commitlint-config` 
      *       from `node_modules`
      */
-    extends: ['@d3p1/commitlint-config'],
+    extends: ['@d3p1/commitlint-config']
 };
