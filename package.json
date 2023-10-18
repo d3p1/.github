@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/d3p1/.github/issues"
   },
-  "homepage": "https://github.com/d3p1/.github",
+  "homepage": "https://github.com/d3p1/.github#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.7.1",
     "@d3p1/commitlint-config": "^1.0.0",
